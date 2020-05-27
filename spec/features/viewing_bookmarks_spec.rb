@@ -1,4 +1,4 @@
-feature 'Viewing bookmarks' do
+feature 'bookmarks' do
 
   # As a user
   # So I can quickly find URL I want to remember
