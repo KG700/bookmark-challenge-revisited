@@ -13,7 +13,7 @@
 ## User Stories
 
 As a user
-So I can find a URL
+So I can quickly find URL I want to remember
 I would like to see a list of bookmarks
 
 ## Domain Model
